@@ -1,0 +1,3 @@
+url: http://localhost:8899
+tunnel: b0f0317f-ccba-4693-890f-9af4dd482710
+credentials-file: ~/.cloudflared/b0f0317f-ccba-4693-890f-9af4dd482710.json
